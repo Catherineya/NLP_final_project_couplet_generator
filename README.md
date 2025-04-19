@@ -1,4 +1,4 @@
-<img width="1191" alt="image" src="https://github.com/user-attachments/assets/25a85e17-69f9-4ade-9efa-5929ce36d8af" /># NLP_final_project_couplet_generator
+# NLP_final_project_couplet_generator
  
 # 🧾 Chinese Couplet Generator Based on Transformer
 
