@@ -9,17 +9,10 @@ This project presents a **Transformer-based Chinese Couplet Generator**, designe
 ## 🏗️ Project Structure
 
 - `chinese-couplets-generator-based-on-transformer.ipynb`: Main Jupyter notebook for training and generating couplets.
-- `data/`: Folder for the training dataset (not included in this repo).
-- `vocab.py`: Vocabulary building and token management.
-- `model.py`: Transformer-based Encoder-Decoder architecture with attention.
-- `utils.py`: Helper functions for training and generation (e.g., padding, batching).
+- `data/`: Folder of the data that we used through this whole project.
+- `config.py`: Stores global hyperparameters and configurations.
+- `data_process.py`: Preprocessing pipeline including dataset loading, splitting, etc.
 - `Final_Project_Paper_for_Natural_Language_Processing.pdf`: Full project report.
-
-## 🧰 Dependencies
-
-```bash
-pip install torch numpy tqdm matplotlib notebook
-```
 
 ## 📚 Dataset
 
