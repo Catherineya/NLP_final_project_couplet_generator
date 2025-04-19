@@ -1,5 +1,3 @@
-# NLP_final_project_couplet_generator
- 
 # 🧾 Chinese Couplet Generator Based on Transformer
 
 ## 🧠 Overview
